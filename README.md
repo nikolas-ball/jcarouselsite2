@@ -1,3 +1,3 @@
-# [bailey's responsive website](http://citwebdev.cscc.edu/~nball4/csci2447/extracredit/)
+# [bailey's responsive website](https://nickballdev.com/jcarouselsite2/)
 #### bailey ❤️
 
